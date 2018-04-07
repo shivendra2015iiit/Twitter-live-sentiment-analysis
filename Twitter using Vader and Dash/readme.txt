@@ -10,6 +10,8 @@ pip install plotly --upgrade  # Plotly graphing library used in examples
 pip install unidecode
 
 
+Register app on twitter and get your key,screet key etc from dev twitter.
+
 tbl.py to show graphical representation of sentiments on graph(sentiment values are stored in twitter.db sqlite3 database)
 live_twitter.py to show on web interface
 
